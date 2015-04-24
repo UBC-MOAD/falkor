@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bin_Average >
+  <Version value="7.22.4" />
+  <ServerName value="Bin Average" />
+  <InputDir value="F:\Falkor\4_derive" />
+  <InputFileArray size="1" GrowBy="-1" >
+    <ArrayItem index="0" value="FK009A_CTD035_20130827.cnv" />
+  </InputFileArray>
+  <OutputDir value="f:\Falkor\5_bin" />
+  <NameAppend value="" />
+  <OutputFile value="FK009A_CTD035_20130827.cnv" />
+  <LastProcessed value="0" />
+  <BinType value="0" />
+  <BinSize value="1.000000" />
+  <IncludeNumberScans value="1" />
+  <ExcludeMarkedBad value="1" />
+  <ScansToSkip value="1900" />
+  <CastToProcess value="1" high="2" low="0" initialValue="0" />
+  <IncludeSurfaceBin value="0" />
+  <SurfaceBinMinVal value="0.010000" />
+  <SurfaceBinMaxVal value="0.500000" />
+  <SurfaceBinVal value="0.250000" />
+</Bin_Average>
