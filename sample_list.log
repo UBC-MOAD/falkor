@@ -1,0 +1,160 @@
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=latex 2013.4.15)  12 SEP 2013 18:08
+entering extended mode
+ %&-line parsing enabled.
+**sample_list.tex
+(./sample_list.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, farsi, arabic, croatian, bulgarian, ukrainian, russian, czech, slov
+ak, danish, dutch, finnish, french, basque, ngerman, german, german-x-2009-06-1
+9, ngerman-x-2009-06-19, ibycus, monogreek, greek, ancientgreek, hungarian, san
+skrit, italian, latin, latvian, lithuanian, mongolian2a, mongolian, bokmal, nyn
+orsk, romanian, irish, coptic, serbian, turkish, welsh, esperanto, uppersorbian
+, estonian, indonesian, interlingua, icelandic, kurmanji, slovenian, polish, po
+rtuguese, spanish, galician, catalan, swedish, ukenglish, loaded.
+(/usr/share/texmf-texlive/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texmf-texlive/tex/latex/base/size10.clo
+File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texmf-texlive/tex/latex/preprint/fullpage.sty
+Package: fullpage 1999/02/23 1.1 (PWD)
+\FP@margin=\skip43
+)
+(/usr/share/texmf-texlive/tex/latex/tools/longtable.sty
+Package: longtable 2004/02/01 v4.11 Multi-page Table package (DPC)
+\LTleft=\skip44
+\LTright=\skip45
+\LTpre=\skip46
+\LTpost=\skip47
+\LTchunksize=\count87
+\LTcapwidth=\dimen103
+\LT@head=\box26
+\LT@firsthead=\box27
+\LT@foot=\box28
+\LT@lastfoot=\box29
+\LT@cols=\count88
+\LT@rows=\count89
+\c@LT@tables=\count90
+\c@LT@chunks=\count91
+\LT@p@ftn=\toks14
+) (./sample_list.aux)
+\openout1 = `sample_list.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+
+Overfull \hbox (6.10683pt too wide) in alignment at lines 13--19
+ [] [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (6.10683pt too wide) in alignment at lines 19--41
+ [] [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (6.10683pt too wide) in alignment at lines 41--64
+ [] [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (6.10683pt too wide) in alignment at lines 64--85
+ [] [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (6.10683pt too wide) in alignment at lines 85--106
+ [] [] [] [] [] [] [] 
+ []
+
+[1
+
+]
+Overfull \hbox (6.10683pt too wide) in alignment at lines 106--127
+ [] [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (6.10683pt too wide) in alignment at lines 127--148
+ [] [] [] [] [] [] [] 
+ []
+
+[2]
+Overfull \hbox (6.10683pt too wide) in alignment at lines 148--170
+ [] [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (6.10683pt too wide) in alignment at lines 170--192
+ [] [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (6.10683pt too wide) in alignment at lines 192--217
+ [] [] [] [] [] [] [] 
+ []
+
+[3]
+Overfull \hbox (6.10683pt too wide) in alignment at lines 217--239
+ [] [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (6.10683pt too wide) in alignment at lines 239--261
+ [] [] [] [] [] [] [] 
+ []
+
+[4]
+Overfull \hbox (6.10683pt too wide) in alignment at lines 261--283
+ [] [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (6.10683pt too wide) in alignment at lines 283--305
+ [] [] [] [] [] [] [] 
+ []
+
+
+Overfull \hbox (6.10683pt too wide) in alignment at lines 305--327
+ [] [] [] [] [] [] [] 
+ []
+
+[5]
+Overfull \hbox (6.10683pt too wide) in alignment at lines 327--346
+ [] [] [] [] [] [] [] 
+ []
+
+[6] [7] (./sample_list.aux) ) 
+Here is how much of TeX's memory you used:
+ 319 strings out of 493858
+ 3627 string characters out of 1153328
+ 80907 words of memory out of 3000000
+ 3669 multiletter control sequences out of 15000+50000
+ 4553 words of font info for 17 fonts, out of 3000000 for 9000
+ 714 hyphenation exceptions out of 8191
+ 23i,4n,17p,167b,198s stack positions out of 5000i,500n,10000p,200000b,50000s
+
+Output written on sample_list.dvi (7 pages, 31680 bytes).
